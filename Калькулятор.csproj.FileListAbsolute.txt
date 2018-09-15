@@ -1,0 +1,10 @@
+D:\lab_sapkis\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+D:\lab_sapkis\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+D:\lab_sapkis\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojAssemblyReference.cache
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+D:\lab_sapkis\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
